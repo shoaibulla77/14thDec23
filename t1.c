@@ -1,4 +1,7 @@
 #include<stdio.h>
 void main(){
-printf("Good morning");
+add();
+  sub();
+  mul();
+  div();
 }
