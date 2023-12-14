@@ -2,5 +2,6 @@
 void main()
 {
 printf("Hello World");
-printf("How's your day going");
+printf("Welcome to GitHub");
+  
 }
