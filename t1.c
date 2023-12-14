@@ -4,5 +4,6 @@ add();
   sub();
   mul();
   div();
-  fact();`
+  fact();
+  fib();
 }
